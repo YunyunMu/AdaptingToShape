@@ -1,0 +1,7 @@
+{
+    "0"  : "Blue Plateau", 
+    "3"  : "Blue to Red Transition",
+    "16" : "Red Plateau",
+    "19" : "Red to Blue Transition",
+    "32" : "End"
+}

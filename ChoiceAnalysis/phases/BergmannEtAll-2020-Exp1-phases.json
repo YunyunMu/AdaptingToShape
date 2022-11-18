@@ -1,0 +1,7 @@
+{
+    "0"  : "Colored Plateau", 
+    "3"  : "Colored to Gray Transition",
+    "16" : "Gray Plateau",
+    "19" : "Gray to Colored Transition",
+    "32" : "End"
+}
