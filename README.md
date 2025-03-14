@@ -4,6 +4,7 @@
 Source Code for the data analysis and modeling for our published paper: Mu, Y., Schubö, A. & Tünnermann, J. Adapting attentional control settings in a shape-changing environment. Atten Percept Psychophys 86, 404–421 (2024). https://doi.org/10.3758/s13414-023-02818-x
 
 ## Tech Stack
+- **Language**: Python
 - **Data Cleaning**: Pandas, NumPy
 - **Analysis & Modeling**: arviz, acvsfit, pymc
 - **Visualization**: Matplotlib
